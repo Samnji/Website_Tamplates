@@ -184,6 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro .img img {
   width: 100%;
+  height: 90%;
 }
 
 #about {
@@ -219,6 +220,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #bio .img img {
+  height: 90%;
   width: 100%;
 }
 
